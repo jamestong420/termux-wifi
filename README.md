@@ -26,20 +26,6 @@
 
 ---
 
-## ⚠️ Important Announcement
-
-<div align="center">
-
-### 🚨 32-BIT SUPPORT ENDING DECEMBER 31, 2025 🚨
-
-**ARM64 (64-bit) only for main releases starting 2026**
-
-[Beta x86/x64 Support Branch →](https://github.com/0n1cOn3/FluxER/tree/Beta-x86-and-x64-support)
-
-</div>
-
----
-
 ## 📋 Requirements
 
 ### Minimum Requirements
