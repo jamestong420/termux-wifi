@@ -30,8 +30,7 @@
 
 ### Minimum Requirements
 - **OS**: Termux on Android 7.0+
-- **Architecture**: ARM64 (64-bit) - *Latest Release*
-  - ARM32 (32-bit) support available in [beta branch](https://github.com/0n1cOn3/FluxER/tree/Beta-x86-and-x64-support)
+- **Architecture**: ARM64 (64-bit)
 - **Storage**: ~500MB-1GB free space
 - **Internet**: Stable connection for downloads
 - **Permissions**: Storage access (granted during setup)
